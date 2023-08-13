@@ -1,4 +1,4 @@
-# deQue-Hablan-losCandidatos
+# what_do_Candidates_Tweet_about?
 
 This is a little work-in-progress proyect wich aims to track
 the twitter discourses of the presidential candidates for
